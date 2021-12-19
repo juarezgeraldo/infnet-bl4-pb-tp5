@@ -1,7 +1,7 @@
-# infnet-bl4-html-css-tp3
+# infnet-bl4-pb-tp5
 ## Instituto Infnet
-### Análise e Desenvolvimento de Sistemas - Interfaces com HTML e CSS
-### Trabalho Prático 3
+### Análise e Desenvolvimento de Sistemas - Projeto de Bloco: Desenvolvimento Front-End
+### Trabalho Prático 5
 #### Professor: Cidcley Schimitt de Oliveira
 #### Aluno: Juarez Geraldo da Silva junior
-Trabalho Prático 3 da disciplina de Interfaces com HTML e CSS para demonstrar as competências trabalhadas nas etapas 5 e 6.
+Trabalho Prático 5 da disciplina de Projeto de Bloco: Desenvolvimento Front-End para demonstrar as competências trabalhadas na etapa 5.

@@ -75,6 +75,10 @@ h2{
     margin: 0 auto;
     width: 940px;
 }
+.container a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
 #banner,
 #lancamentos{
     background-color: rgb(253, 247, 239);
@@ -114,6 +118,10 @@ footer{
     text-align: center;
     width: 940px;
     margin: 0 auto;
+}
+footer a:hover{
+    text-decoration: underline;
+    cursor: pointer;
 }
 .caixa-footer p{
     font-size: 1.5em;
